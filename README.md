@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Leonbart/leonbart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I'm an electronic engineer and full stack developer.
+I'm an Electronic Engineer and Full Stack Developer.
 
-The technologies I use are mainly this:
+In my latest projects, I mainly used this technologies:
 Javascript | Typescript | Node.js | React.js | Redux | Next.js | Express.js | MongoDB | PostgreSQL
