@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About Me
+I'm an electronic engineer and full stack developer.
+
+The technologies I use are mainly this:
+Javascript | Typescript | Node.js | React.js | Redux | Next.js | Express.js | MongoDB | PostgreSQL
