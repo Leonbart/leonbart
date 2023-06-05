@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About Me
+### About Me
 I'm an electronic engineer and full stack developer.
 
 The technologies I use are mainly this:
