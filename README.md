@@ -12,17 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Leonardo Alabart
+# Leonardo Alabart
 
-### About Me
+## About Me
 I'm an Electronic Engineer and Full Stack Developer.
 
+## Main Skills
 In my latest projects, I mainly used this technologies:
 Javascript | Typescript | Node.js | React.js | Redux | Next.js | Express.js | MongoDB | PostgreSQL
 
-### Main Skills
-
-### How to Contact
+## How to Contact
 Feel free to contact via
 mail: leonardo.alabart@gmail.com
 linkedIn: https://www.linkedin.com/in/leonardo-alabart-80067813
