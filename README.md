@@ -19,6 +19,7 @@ I'm an Electronic Engineer and Full Stack Developer.
 
 ## Main Skills
 Main technologies I use:
+
 Javascript | Typescript | Node.js | React.js | Redux | Next.js | Express.js | MongoDB | PostgreSQL
 
 ## Projects
