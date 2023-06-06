@@ -30,6 +30,7 @@ While mainly targeted to pilots, the application allows to login with three diff
 Each of these profiles has specific functionalities and statistics based on the app usage.
 
 Repo: https://github.com/RiosHectorM/FLIGHT-DECK
+
 Deploy: https://flight-deck-ten.vercel.app/
 
 ### Rick & Morty
@@ -37,9 +38,12 @@ With this App you will be able to display the info about all your favorite chara
 Rick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon Network's nighttime programming block Adult Swim. The series follows the misadventures of cynical mad scientist Rick Sanchez and his good-hearted but fretful grandson Morty Smith, who split their time between domestic life and interdimensional adventures that take place across an infinite number of realities, often travelling to other planets and dimensions through portals and on Rick's flying saucer.
 
 BackEnd repo: https://github.com/Leonbart/Pokemon-back
+
 FrontEnd repo: https://github.com/Leonbart/Pokemon-front
 
 ## How to Contact
 Feel free to contact via
+
 mail: leonardo.alabart@gmail.com
+
 linkedIn: https://www.linkedin.com/in/leonardo-alabart-80067813
