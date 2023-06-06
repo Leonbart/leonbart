@@ -52,7 +52,7 @@ Rick and Morty is an American adult animated science fiction sitcom created by J
 Repo: https://github.com/Leonbart/rick-and-morty
 
 ## How to Contact
-Feel free to contact via
+Feel free to contact me via
 
 mail: leonardo.alabart@gmail.com
 
