@@ -20,7 +20,7 @@ I'm an Electronic Engineer and Full Stack Developer.
 ## Main Skills
 Main technologies I use:
 
-Javascript | Typescript | HTML | CSS | Node.js | React.js | Redux | Next.js | Express.js | API | MongoDB | PostgreSQL | Sequelize | Prisma | Postman | Git/GitHub | Trello | Agile | Figma
+Javascript | Typescript | HTML | CSS | Node.js | React.js | Redux | Next.js | Express.js | API | MongoDB | PostgreSQL | Sequelize | Prisma | Postman | Git/GitHub | Trello | Agile | Figma | ECharts
 
 ## Projects
 These are the projects I've been working on lately:
