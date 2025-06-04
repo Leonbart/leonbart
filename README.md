@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Leonardo Alabart
 
 ## About Me
-I'm an IT Manager, Electronic Engineer, and Full Stack Developer.
+I'm an IT Manager, Electronic Engineer, and Software Developer.
 
 ## Main Skills
 Main technologies I use:
